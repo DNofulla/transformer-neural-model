@@ -1,0 +1,5 @@
+*.pdf
+plots/
+venv/
+output.json
+__pycache__/
